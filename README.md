@@ -1,5 +1,5 @@
 # stanCode-project
-There are 4 projects I have done\
+There are 4 projects I have done
 ## 1. Breakout
 Brick breaker game [Demo Video](https://drive.google.com/file/d/1VysDsYVIWMNtJmcjQdXYrb7ME31_Qmhd/view?usp=sharing)
 ## 2. stanCodoshop
