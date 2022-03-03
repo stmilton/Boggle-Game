@@ -1,9 +1,6 @@
 """
-SC101 Baby Names Project
-Adapted from Nick Parlante's Baby Names assignment by
-Jerry Liao.
+Baby Names Project
 
-YOUR DESCRIPTION HERE
 """
 
 import sys
