@@ -1,8 +1,6 @@
 """
 File: boggle.py
-Name:
-----------------------------------------
-TODO:
+
 """
 
 # This is the file name of the dictionary txt file
