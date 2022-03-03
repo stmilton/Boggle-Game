@@ -1,5 +1,5 @@
 # Project
-There are 4 projects I have done
+底下為幾個我實作的幾個小型Project~
 ## 1. Breakout
 Brick breaker game  
 遊戲進行方式為移動 paddle 來反彈落下的球，並消滅所有磚塊。   
