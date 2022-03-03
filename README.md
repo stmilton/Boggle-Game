@@ -5,13 +5,17 @@ Brick breaker game
 遊戲進行方式為移動 paddle 來反彈落下的球，並消滅所有磚塊。   
 遊戲終止的條件有兩個：玩家「消滅所有磚塊」或是當「球超過視窗下方三次」。換句話說，玩家有三次機會消滅所有磚塊。
 
-[Demo Video](https://drive.google.com/file/d/1VysDsYVIWMNtJmcjQdXYrb7ME31_Qmhd/view?usp=sharing)
-## 2. stanCodoshop
-Eliminate pedestrians through overlays [Demo Video](https://drive.google.com/file/d/19gIZur6RmJdBXq66bFLkqoCVc2BUOf0p/view?usp=sharing)
+請看: [Demo Video](https://drive.google.com/file/d/1VysDsYVIWMNtJmcjQdXYrb7ME31_Qmhd/view?usp=sharing)
+## 2. image processing
+觀光景點超多路人一直出現真的很困擾啊~~   
+所以本project透過多張圖片疊加處理，讓使用者可以將美麗風景照裡的路人消失！ 
+
+請看:  [Demo Video](https://drive.google.com/file/d/19gIZur6RmJdBXq66bFLkqoCVc2BUOf0p/view?usp=sharing)
 ## 3. Babynames
    
 本project整理 1900年 - 2010年 美國社會安全局網站（http://www.ssa.gov/OACT/babynames） 上公佈最「夯」的 Top 1000 新生兒姓名，並繪製圖表。
-[Demo Video](https://drive.google.com/file/d/17niXW04kNxJsGRH8BWrFMTrsHkl6Ka-V/view?usp=sharing)  
+
+請看: [Demo Video](https://drive.google.com/file/d/17niXW04kNxJsGRH8BWrFMTrsHkl6Ka-V/view?usp=sharing)  
 
 有些中性名字，如 Sammy，可能在某一年同時出現在男、女姓名排行榜。若同時存在，則取「比較低的排名」。舉例來說，若 Sammy 在 ''1990'' 有排名 ''90'' 以及 ''200''，則選擇儲存 name = Sammy ; year = ''1990''; rank = ''90''
 ## 4.Boggle
@@ -22,4 +26,4 @@ Eliminate pedestrians through overlays [Demo Video](https://drive.google.com/fil
 ![boggle範例](https://user-images.githubusercontent.com/83272077/156507626-60686e7e-06ab-4bba-b40b-5bd71aaef100.jpg)    
 若使用者的輸入不符合規定，程式就會終止執行。   
 
-[Demo Video](https://drive.google.com/file/d/19W7njdw6SzjjoE5poPNNcxMa6jJ5kokB/view?usp=sharing)
+請看: [Demo Video](https://drive.google.com/file/d/19W7njdw6SzjjoE5poPNNcxMa6jJ5kokB/view?usp=sharing)
