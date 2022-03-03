@@ -11,4 +11,11 @@ Eliminate pedestrians through overlays [Demo Video](https://drive.google.com/fil
 
 有些中性名字，如 Sammy，可能在某一年同時出現在男、女姓名排行榜。若同時存在，則取「比較低的排名」。舉例來說，若 Sammy 在 ''1990'' 有排名 ''90'' 以及 ''200''，則選擇儲存 name = Sammy ; year = ''1990''; rank = ''90''
 ## 4.Boggle
-Boggle game [Demo Video](https://drive.google.com/file/d/19W7njdw6SzjjoE5poPNNcxMa6jJ5kokB/view?usp=sharing)
+遊戲一開始會先排出一個 4 x 4 的方形字母拼盤，接著玩家開始串連在字母盤上相連的字母，去找出存在於這個 4 x 4 的方形字母拼盤的所有英文單字    
+遊戲一開始玩家!
+本project會將玩家輸入的表格內所有單字全數找出。    
+遊戲一開始玩家會被要求輸入 4 排以空白隔開的 4 個英文單字（如下圖所示）
+![boggle範例](https://user-images.githubusercontent.com/83272077/156507626-60686e7e-06ab-4bba-b40b-5bd71aaef100.jpg)    
+若使用者的輸入不符合規定，程式就會終止執行。   
+
+[Demo Video](https://drive.google.com/file/d/19W7njdw6SzjjoE5poPNNcxMa6jJ5kokB/view?usp=sharing)
