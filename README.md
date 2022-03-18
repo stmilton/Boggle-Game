@@ -3,7 +3,7 @@
 
 藉由手刻Machine Learning模型，來預測哪些乘客在鐵達尼號沉船中倖存下來。   
 
-比賽中提供兩個相似的數據集一個數據集名為“train.csv”，另一個名為“test.csv” ，其中fetures包括:      
+比賽中提供兩個相似的數據集一個數據集名為“train.csv”，另一個名為“test.csv” ，其中features包括:      
 ![鐵達尼號數據](https://user-images.githubusercontent.com/83272077/158941573-90c411a3-afb0-4d21-9a25-c0acf9fd347c.png)
 
 
